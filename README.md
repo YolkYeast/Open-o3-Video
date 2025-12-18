@@ -160,7 +160,7 @@ If you use our work or our implementation in this repo, or find them helpful, pl
 ```
 @article{meng2025openo3,
   title={Open-o3 Video: Grounded Video Reasoning with Explicit Spatio-Temporal Evidence}, 
-  author={Meng, Jiahao and Li, Xiangtai and Wang, Haochen and Tan, Yue and Zhang, Tao and Kong, Lingdong  and Tong, Yunhai and Wang, Anran and Teng, Zhiyang and Wang, Yujing and Wang, Zhuochen},
+  author={Meng, Jiahao and Li, Xiangtai and Wang, Haochen and Tan, Yue and Zhang, Tao and Kong, Lingdong and Tong, Yunhai and Wang, Anran and Teng, Zhiyang and Wang, Yujing and Wang, Zhuochen},
   journal={arXiv preprint arXiv:2510.20579},
   year={2025}
 }
