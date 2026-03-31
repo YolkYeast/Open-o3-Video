@@ -44,7 +44,7 @@ Stage 2: Reinforcement learning with Group Sequence Policy Optimization stabiliz
 ## Environment setup:
 
 ```bash
-git clone https://github.com/marinero4972/Open-o3-Video 
+https://github.com/YolkYeast/Open-o3-Video.git
 cd Open-o3-Video 
 
 conda create -n open-o3-video python=3.11
